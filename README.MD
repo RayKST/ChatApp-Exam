@@ -43,13 +43,3 @@ As a user, I want to change nickname, profile photo and interests, so that I can
 -   [ ] Code reviewed by a PO
 
 
-
-
-
-
-
-
-
-sobre os diagramas vão ser dois separados, um com o modelo entidade relacional das tabelas
-e outro com as classes correspondentes. Não esqueça das cardianalidades
-
