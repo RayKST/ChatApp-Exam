@@ -52,7 +52,7 @@ As a user, I want to be part of groups with another people, so that I can talk w
 **1**. Page for groups with interests close to the user
 **2**. Chat able to all members talk
 
-## DoD - Chat:
+## DoD - Groups:
 -   [ ] Connectivity test for many users at once 
 -   [ ] Tests to keep messages from users in the database
 -   [ ] Code reviewed by a PO
