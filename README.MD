@@ -56,3 +56,14 @@ As a user, I want to be part of groups with another people, so that I can talk w
 -   [ ] Connectivity test for many users at once 
 -   [ ] Tests to keep messages from users in the database
 -   [ ] Code reviewed by a PO
+
+---
+---
+
+# Diagrams
+
+## Relational Model
+![Diagram for Relational Model of app](/assets/relational_model.png).
+
+## Class Model
+![Diagram for Class Model of app](/assets/class_model.png).
